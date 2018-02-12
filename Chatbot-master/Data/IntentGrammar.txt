@@ -1,0 +1,21 @@
+~like:
+    I like <featureInfo>
+    I love <featureInfo>
+    I want <featureInfo>
+    I will go with <featureInfo>
+    I prefer <featureInfo>
+    I will get <featureInfo>
+    get me <featureInfo>
+
+~dislike:
+    I don't like <featureInfo>
+    I hate <featureInfo>
+    I don't want <featureInfo>
+    Anything except <featureInfo>
+    No <featureInfo>
+    <featureInfo> sucks
+
+~query:
+    Do you have <featureInfo>?
+    What all <feature> you have?
+    Please tell me all <feature>

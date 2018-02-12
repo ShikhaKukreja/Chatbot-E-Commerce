@@ -1,0 +1,448 @@
+@color:
+~like:
+    I like blue
+    I like black
+    I like white
+    I like green
+    I like red
+    I love blue
+    I love black
+    I love white
+    I love green
+    I love red
+    I want blue
+    I want black
+    I want white
+    I want green
+    I want red
+    I will go with blue
+    I will go with black
+    I will go with white
+    I will go with green
+    I will go with red
+    I prefer blue
+    I prefer black
+    I prefer white
+    I prefer green
+    I prefer red
+    I will get blue
+    I will get black
+    I will get white
+    I will get green
+    I will get red
+    get me blue
+    get me black
+    get me white
+    get me green
+    get me red
+
+~dislike:
+    I don't like blue
+    I don't like black
+    I don't like white
+    I don't like green
+    I don't like red
+    I hate blue
+    I hate black
+    I hate white
+    I hate green
+    I hate red
+    I don't want blue
+    I don't want black
+    I don't want white
+    I don't want green
+    I don't want red
+    Anything except blue
+    Anything except black
+    Anything except white
+    Anything except green
+    Anything except red
+    No blue
+    No black
+    No white
+    No green
+    No red
+    blue sucks
+    black sucks
+    white sucks
+    green sucks
+    red sucks
+
+~query:
+    Do you have blue?
+    Do you have black?
+    Do you have white?
+    Do you have green?
+    Do you have red?
+    What all color you have?
+    Please tell me all color
+@price:
+~like:
+    I like 100
+    I like 38
+    I like 28
+    I like 50
+    I like 70
+    I love 100
+    I love 38
+    I love 28
+    I love 50
+    I love 70
+    I want 100
+    I want 38
+    I want 28
+    I want 50
+    I want 70
+    I will go with 100
+    I will go with 38
+    I will go with 28
+    I will go with 50
+    I will go with 70
+    I prefer 100
+    I prefer 38
+    I prefer 28
+    I prefer 50
+    I prefer 70
+    I will get 100
+    I will get 38
+    I will get 28
+    I will get 50
+    I will get 70
+    get me 100
+    get me 38
+    get me 28
+    get me 50
+    get me 70
+
+~dislike:
+    I don't like 100
+    I don't like 38
+    I don't like 28
+    I don't like 50
+    I don't like 70
+    I hate 100
+    I hate 38
+    I hate 28
+    I hate 50
+    I hate 70
+    I don't want 100
+    I don't want 38
+    I don't want 28
+    I don't want 50
+    I don't want 70
+    Anything except 100
+    Anything except 38
+    Anything except 28
+    Anything except 50
+    Anything except 70
+    No 100
+    No 38
+    No 28
+    No 50
+    No 70
+    100 sucks
+    38 sucks
+    28 sucks
+    50 sucks
+    70 sucks
+
+~query:
+    Do you have 100?
+    Do you have 38?
+    Do you have 28?
+    Do you have 50?
+    Do you have 70?
+    What all price you have?
+    Please tell me all price
+@style:
+~like:
+    I like tightfit
+    I like regularfit
+    I love tightfit
+    I love regularfit
+    I want tightfit
+    I want regularfit
+    I will go with tightfit
+    I will go with regularfit
+    I prefer tightfit
+    I prefer regularfit
+    I will get tightfit
+    I will get regularfit
+    get me tightfit
+    get me regularfit
+
+~dislike:
+    I don't like tightfit
+    I don't like regularfit
+    I hate tightfit
+    I hate regularfit
+    I don't want tightfit
+    I don't want regularfit
+    Anything except tightfit
+    Anything except regularfit
+    No tightfit
+    No regularfit
+    tightfit sucks
+    regularfit sucks
+
+~query:
+    Do you have tightfit?
+    Do you have regularfit?
+    What all style you have?
+    Please tell me all style
+@brand:
+~like:
+    I like oldnavi
+    I like levis
+    I like adidas
+    I like nike
+    I love oldnavi
+    I love levis
+    I love adidas
+    I love nike
+    I want oldnavi
+    I want levis
+    I want adidas
+    I want nike
+    I will go with oldnavi
+    I will go with levis
+    I will go with adidas
+    I will go with nike
+    I prefer oldnavi
+    I prefer levis
+    I prefer adidas
+    I prefer nike
+    I will get oldnavi
+    I will get levis
+    I will get adidas
+    I will get nike
+    get me oldnavi
+    get me levis
+    get me adidas
+    get me nike
+
+~dislike:
+    I don't like oldnavi
+    I don't like levis
+    I don't like adidas
+    I don't like nike
+    I hate oldnavi
+    I hate levis
+    I hate adidas
+    I hate nike
+    I don't want oldnavi
+    I don't want levis
+    I don't want adidas
+    I don't want nike
+    Anything except oldnavi
+    Anything except levis
+    Anything except adidas
+    Anything except nike
+    No oldnavi
+    No levis
+    No adidas
+    No nike
+    oldnavi sucks
+    levis sucks
+    adidas sucks
+    nike sucks
+
+~query:
+    Do you have oldnavi?
+    Do you have levis?
+    Do you have adidas?
+    Do you have nike?
+    What all brand you have?
+    Please tell me all brand
+@size:
+~like:
+    I like 11
+    I like 10
+    I like 12
+    I like 32
+    I like 30
+    I like 28
+    I like 34
+    I like 38
+    I like 4
+    I like 7
+    I like 6
+    I like 9
+    I like 8
+    I love 11
+    I love 10
+    I love 12
+    I love 32
+    I love 30
+    I love 28
+    I love 34
+    I love 38
+    I love 4
+    I love 7
+    I love 6
+    I love 9
+    I love 8
+    I want 11
+    I want 10
+    I want 12
+    I want 32
+    I want 30
+    I want 28
+    I want 34
+    I want 38
+    I want 4
+    I want 7
+    I want 6
+    I want 9
+    I want 8
+    I will go with 11
+    I will go with 10
+    I will go with 12
+    I will go with 32
+    I will go with 30
+    I will go with 28
+    I will go with 34
+    I will go with 38
+    I will go with 4
+    I will go with 7
+    I will go with 6
+    I will go with 9
+    I will go with 8
+    I prefer 11
+    I prefer 10
+    I prefer 12
+    I prefer 32
+    I prefer 30
+    I prefer 28
+    I prefer 34
+    I prefer 38
+    I prefer 4
+    I prefer 7
+    I prefer 6
+    I prefer 9
+    I prefer 8
+    I will get 11
+    I will get 10
+    I will get 12
+    I will get 32
+    I will get 30
+    I will get 28
+    I will get 34
+    I will get 38
+    I will get 4
+    I will get 7
+    I will get 6
+    I will get 9
+    I will get 8
+    get me 11
+    get me 10
+    get me 12
+    get me 32
+    get me 30
+    get me 28
+    get me 34
+    get me 38
+    get me 4
+    get me 7
+    get me 6
+    get me 9
+    get me 8
+
+~dislike:
+    I don't like 11
+    I don't like 10
+    I don't like 12
+    I don't like 32
+    I don't like 30
+    I don't like 28
+    I don't like 34
+    I don't like 38
+    I don't like 4
+    I don't like 7
+    I don't like 6
+    I don't like 9
+    I don't like 8
+    I hate 11
+    I hate 10
+    I hate 12
+    I hate 32
+    I hate 30
+    I hate 28
+    I hate 34
+    I hate 38
+    I hate 4
+    I hate 7
+    I hate 6
+    I hate 9
+    I hate 8
+    I don't want 11
+    I don't want 10
+    I don't want 12
+    I don't want 32
+    I don't want 30
+    I don't want 28
+    I don't want 34
+    I don't want 38
+    I don't want 4
+    I don't want 7
+    I don't want 6
+    I don't want 9
+    I don't want 8
+    Anything except 11
+    Anything except 10
+    Anything except 12
+    Anything except 32
+    Anything except 30
+    Anything except 28
+    Anything except 34
+    Anything except 38
+    Anything except 4
+    Anything except 7
+    Anything except 6
+    Anything except 9
+    Anything except 8
+    No 11
+    No 10
+    No 12
+    No 32
+    No 30
+    No 28
+    No 34
+    No 38
+    No 4
+    No 7
+    No 6
+    No 9
+    No 8
+    11 sucks
+    10 sucks
+    12 sucks
+    32 sucks
+    30 sucks
+    28 sucks
+    34 sucks
+    38 sucks
+    4 sucks
+    7 sucks
+    6 sucks
+    9 sucks
+    8 sucks
+
+~query:
+    Do you have 11?
+    Do you have 10?
+    Do you have 12?
+    Do you have 32?
+    Do you have 30?
+    Do you have 28?
+    Do you have 34?
+    Do you have 38?
+    Do you have 4?
+    Do you have 7?
+    Do you have 6?
+    Do you have 9?
+    Do you have 8?
+    What all size you have?
+    Please tell me all size
+
+#END

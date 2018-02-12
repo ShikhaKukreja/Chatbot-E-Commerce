@@ -1,0 +1,45 @@
+@color:
+	color
+	blue
+	black
+	white
+	green
+	red
+
+@price:
+	price
+	100
+	38
+	28
+	50
+	70
+
+@style:
+	style
+	tightfit
+	regularfit
+
+@brand:
+	brand
+	oldnavi
+	levis
+	adidas
+	nike
+
+@size:
+	size
+	11
+	10
+	12
+	32
+	30
+	28
+	34
+	38
+	4
+	7
+	6
+	9
+	8
+
+#END
